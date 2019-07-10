@@ -1,0 +1,12 @@
+mario
+4800
+Katia
+3600
+Dina
+2880
+zihe
+2400
+luigi
+960
+zihe
+240
